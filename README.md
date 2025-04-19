@@ -40,7 +40,7 @@ Du findest alle meine Projekte weiter unten – mit **Screenshots, Beschreibung 
 
 ---
 
-### ✨ Bonus: GitHub Stats (nur sichtbar, wenn du Aktivität hast)
+### ✨ Bonus: GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deinusername&show_icons=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arblirmeta&show_icons=true&hide=prs&theme=radical)
 
