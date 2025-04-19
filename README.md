@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi, ich bin Arblir 👋</h1>
 
-<!--
-**arblirmeta/arblirmeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Wirtschaftsinformatik-Student & App-Entwickler aus Berlin <br>
+  💡 Ich baue kreative Apps mit echten Use-Cases <br>
+  🎯 Fokus: Flutter, Firebase, Python & moderne Webtechnologien
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Über mich
+
+- 👨‍🔬 **Wirtschaftsinformatik-Student** an der HWR Berlin  
+- 💻 Ich liebe es, **smarte Lösungen** für den Alltag zu entwickeln  
+- 💡 Aktuell baue ich mein **GitHub-Portfolio von Grund auf neu auf**  
+- 🌐 Interessen: App-Entwicklung, UX/UI, Data Science, Ernährung, Nachhaltigkeit  
+- ☕️ Fun Fact: Ich baue am liebsten bei Kaffee, guter Musik & Sonnenschein 😄
+
+---
+
+### 🧰 Technologien & Tools
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,python,js,ts,react,html,css,figma,docker,git,github,vscode" />
+
+---
+
+### 🧠 Aktuelle Projekte
+
+- 📱 **RefillBuddy** – Smarte App zur Suche nach Trinkwasser-Refill-Spots  
+- 💡 Neue App-Ideen in Arbeit – bleib gespannt!  
+
+Du findest alle meine Projekte weiter unten – mit **Screenshots, Beschreibung & Live-Links**, sobald sie fertig sind!
+
+---
+
+### 📬 Kontakt
+
+- 📧 Mail: [metaarblir@mail.com]
+- 🐙 GitHub: [https://github.com/arblirmeta](https://github.com/arblirmeta)
+
+---
+
+### ✨ Bonus: GitHub Stats (nur sichtbar, wenn du Aktivität hast)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deinusername&show_icons=true&hide=prs&theme=radical)
+
