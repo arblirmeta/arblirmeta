@@ -26,6 +26,7 @@
 
 ### 🧠 Aktuelle Projekte
 
+- ✈️ **PromptPilot** – Deine persönliche App zum Speichern, Verwalten und Teilen von KI-Prompts
 - 📱 **RefillBuddy** – Smarte App zur Suche nach Trinkwasser-Refill-Spots  
 - 💡 Neue App-Ideen in Arbeit – bleib gespannt!  
 
