@@ -14,7 +14,6 @@
 - 💻 Ich liebe es, **smarte Lösungen** für den Alltag zu entwickeln  
 - 💡 Aktuell baue ich mein **GitHub-Portfolio von Grund auf neu auf**  
 - 🌐 Interessen: App-Entwicklung, UX/UI, Data Science, Ernährung, Nachhaltigkeit  
-- ☕️ Fun Fact: Ich baue am liebsten bei Kaffee, guter Musik & Sonnenschein 😄
 
 ---
 
