@@ -27,6 +27,7 @@
 
 - ✈️ **PromptPilot** – Deine persönliche App zum Speichern, Verwalten und Teilen von KI-Prompts
 - 📱 **RefillBuddy** – Smarte App zur Suche nach Trinkwasser-Refill-Spots  
+- 🎭 **Imposter_App** – ein Social-Deduction-Spiel für Freunde
 - 💡 Neue App-Ideen in Arbeit – bleib gespannt!  
 
 Du findest alle meine Projekte weiter unten – mit **Screenshots, Beschreibung & Live-Links**, sobald sie fertig sind!
